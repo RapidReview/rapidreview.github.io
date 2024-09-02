@@ -16,7 +16,7 @@
       </g>
       <svg width="50" height="509" class="djs-svg-text">
         <text transform="matrix(-1.83697E-16, -1, 1, -1.83697E-16, 0, 509)" font-family="'Segoe UI'" font-size="13.2815px" font-style="normal" font-weight="bold" lineHeight="1.2" textDirection="270" textAlign="center" class="djs-label" style="fill:black;">
-          <tspan x="212.5105" y="28.75">Rapid Review</tspan>
+          <tspan x="156.2197" y="28.75">Revisión Rápida (Rapid Review)</tspan>
         </text>
       </svg>
     </g>
@@ -247,7 +247,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 2171, 464)" id="gfx-5c8f3a6b-1ed0-4361-b044-3364ea21339e" display="block" class="djs-element djs-shape" data-element-id="5c8f3a6b-1ed0-4361-b044-3364ea21339e">
+    <g transform="matrix(1, 0, 0, 1, 2171, 465)" id="gfx-5c8f3a6b-1ed0-4361-b044-3364ea21339e" display="block" class="djs-element djs-shape" data-element-id="5c8f3a6b-1ed0-4361-b044-3364ea21339e">
       <g class="djs-visual">
         <g>
           <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
@@ -263,7 +263,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1811, 466)" id="gfx-13c9b658-0b10-4468-9c11-bc58a5e0ced4" display="block" class="djs-element djs-shape" data-element-id="13c9b658-0b10-4468-9c11-bc58a5e0ced4">
+    <g transform="matrix(1, 0, 0, 1, 1811, 465)" id="gfx-13c9b658-0b10-4468-9c11-bc58a5e0ced4" display="block" class="djs-element djs-shape" data-element-id="13c9b658-0b10-4468-9c11-bc58a5e0ced4">
       <g class="djs-visual">
         <g>
           <rect x="0" y="0" width="90" height="60" rx="8" stroke-width="2px" class="" style="fill:#ECEFFF;stroke:#03689A;" />
@@ -291,7 +291,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 2296, 479)" id="gfx-10188b09-c783-487b-a8f8-63e18ad09753" display="block" class="djs-element djs-shape" data-element-id="10188b09-c783-487b-a8f8-63e18ad09753">
+    <g transform="matrix(1, 0, 0, 1, 2296, 480)" id="gfx-10188b09-c783-487b-a8f8-63e18ad09753" display="block" class="djs-element djs-shape" data-element-id="10188b09-c783-487b-a8f8-63e18ad09753">
       <g class="djs-visual">
         <g>
           <g transform="translate(-8.90625, -8.90625) scale(1.5)">
@@ -316,7 +316,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1814, 97)" id="gfx-0f7fd9cb-b36a-47ff-a0b7-a83294463990" display="block" class="djs-element djs-shape" data-element-id="0f7fd9cb-b36a-47ff-a0b7-a83294463990">
+    <g transform="matrix(1, 0, 0, 1, 1814, 97)" id="gfx-8888ed28-33dc-415a-a7e8-b4000b174491" display="block" class="djs-element djs-shape" data-element-id="8888ed28-33dc-415a-a7e8-b4000b174491">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -490,7 +490,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M2261 494 L2296 494" marker-end="url(#arrowSecuenceFlow03fff942-9538-4255-8887-34aaa75e499d)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M2261 495 L2296 495" marker-end="url(#arrowSecuenceFlow03fff942-9538-4255-8887-34aaa75e499d)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
@@ -510,7 +510,7 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1920, 110)" id="gfx-4878453a-074c-4a65-b96f-1965df9a6688" display="block" class="djs-element djs-shape" data-element-id="4878453a-074c-4a65-b96f-1965df9a6688">
+    <g transform="matrix(1, 0, 0, 1, 1920, 110)" id="gfx-2c66e717-1e47-43c2-a02e-eece70419d02" display="block" class="djs-element djs-shape" data-element-id="2c66e717-1e47-43c2-a02e-eece70419d02">
       <g class="djs-visual">
         <rect x="0" y="0" width="97" height="40" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="97" height="35" class="djs-svg-text">
@@ -531,13 +531,13 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M1856 167 L1856 466" marker-end="url(#arrowSecuenceFlow16be327f-cde4-4334-b0e0-fc781ecac361)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M1856 167 L1856 465" marker-end="url(#arrowSecuenceFlow16be327f-cde4-4334-b0e0-fc781ecac361)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 1779, 246.5)" id="gfx-5b146895-2768-4aa5-b129-55f6d9fc15d8" display="block" class="djs-element djs-shape" data-element-id="5b146895-2768-4aa5-b129-55f6d9fc15d8">
+    <g transform="matrix(1, 0, 0, 1, 1779, 246.5)" id="gfx-040fe977-62b7-41f7-b1dc-8eadfc279187" display="block" class="djs-element djs-shape" data-element-id="040fe977-62b7-41f7-b1dc-8eadfc279187">
       <g class="djs-visual">
         <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
@@ -571,7 +571,7 @@
               <path d="M0 0 L2 6 L0 12 L10 6 z" style="fill:black;" />
             </marker>
           </defs>
-          <path d="M1901 484 L2036 484 L2036 494 L2171 494" marker-end="url(#arrowSecuenceFlow9a6a793d-88b8-4ee7-845d-6778ed35011b)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+          <path d="M1901 494 L2036 494 L2036 495 L2171 495" marker-end="url(#arrowSecuenceFlow9a6a793d-88b8-4ee7-845d-6778ed35011b)" stroke-width="1px" stroke-linejoin="round" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
